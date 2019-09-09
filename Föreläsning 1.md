@@ -80,4 +80,4 @@ Nu när vi har de grundläggande sätten att konstruera mängder, så kan vi def
 ![equation]()
 ![equation]()
 ![equation]()
-
+https://www.codecogs.com/latex/eqneditor.php
