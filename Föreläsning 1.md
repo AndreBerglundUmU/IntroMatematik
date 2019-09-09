@@ -28,15 +28,15 @@ Exempel: Om vi definierar mängden
 ![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5C%7B1%2C2%2C3%5C%7D)
 så kan vi skriva att 
 ![equation](https://latex.codecogs.com/gif.latex?1%5Cin%20A)
-och motsvarande.
+och motsvarande, att 
 ![equation](https://latex.codecogs.com/gif.latex?5%5Cnotin%20A).
 
 Med hjälp av den notationen kan vi använda kriterier för att begränsa vilka element som är inkluderade i mängden med hjälp av ":".
 
 Exempel: Om vi definierar mängden 
-![equation](https://latex.codecogs.com/gif.latex?%5COmega%20%3D%20%5C%7B1%2C2%2C3%2C4%2C5%2C6%2C7%2C9%5C%7D)
+![equation](https://latex.codecogs.com/gif.latex?%5COmega%20%3D%20%5C%7B1%2C2%2C3%2C4%2C5%2C6%2C7%2C8%2C9%5C%7D)
 , så kan vi skriva
-![equation](https://latex.codecogs.com/gif.latex?%5C%7B2%2C4%2C6%5C%7D%20%3D%20%22%5Ctext%7BPositiva%20j%7B%5C%22a%7Dmna%20tal%20i%20%7D%20%5COmega%22%20%3D%20%5C%7Bx%5Cin%5COmega%3A%20x%3E0%20%5C%7D)
+![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5C%7B2%2C4%2C6%2C8%5C%7D%20%3D%20%22%5Ctext%7BAlla%20j%7B%5C%22a%7Dmna%20tal%20i%20%7D%20%5COmega%22%20%3D%20%5C%7Bx%5Cin%5COmega%20%3A%202%7Cx%5C%7D)
 
 ## Användbara mängder
 Nedan följer mängder som ni förväntas kunna och använda er av.
