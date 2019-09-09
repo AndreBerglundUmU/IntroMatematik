@@ -14,7 +14,7 @@ Här kommer allt innehåll för en grundläggande introduktion till matematik at
 9. Summor
 10. Binomialsatsen
 11. Trigonometri och geometri
-  - Vinklar
-  - Pythagoras sats
-  - Triangelsatser
+    - Vinklar
+    - Pythagoras sats
+    - Triangelsatser
 12. Komplexa tal
