@@ -24,11 +24,12 @@ Notera också användandet av ":=" vilket indikerar att vi från och med nu har 
 
 En notation som är viktig är hur man beskriver att ett element ligger i en mängd. Detta görs med hjälp av 
 
-Exempel:
-
+Exempel: Om vi definierar mängden
 ![equation](https://latex.codecogs.com/gif.latex?A%20%3D%20%5C%7B1%2C2%2C3%5C%7D)
-
+så kan vi skriva att 
 ![equation](https://latex.codecogs.com/gif.latex?1%5Cin%20A)
+och motsvarande.
+![equation](https://latex.codecogs.com/gif.latex?5%5Cnotin%20A).
 
 Med hjälp av den notationen kan vi använda kriterier för att begränsa vilka element som är inkluderade i mängden med hjälp av ":".
 
