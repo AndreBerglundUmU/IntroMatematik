@@ -37,6 +37,8 @@ Exempel: Om vi definierar mängden
 , så kan vi skriva
 ![equation](https://latex.codecogs.com/gif.latex?%5C%7B2%2C4%2C6%5C%7D%20%3D%20%22%5Ctext%7BPositiva%20j%7B%5C%22a%7Dmna%20tal%20i%20%7D%20%5COmega%22%20%3D%20%5C%7Bx%5Cin%5COmega%3A%20x%3E0%20%5C%7D)
 
+## Användbara mängder
+Nedan följer mängder som ni förväntas kunna och använda er av.
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BN%7D%20%3D%20%5Ctext%7B%22De%20naturliga%20talen%22%7D%20%3D%20%7B1%2C2%2C3%2C4%2C%5Cldots%7D)
 
@@ -48,8 +50,27 @@ Exempel: Om vi definierar mängden
 
 ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BC%7D%20%3D%20%5Ctext%7B%22De%20komplexa%20talen%22%7D%20%3D%20%5C%7Bz%3A%20z%20%3D%20a&plus;bi%2C%20%5Cquad%20a%2Cb%5Cin%5Cmathbb%7BR%7D%5C%7D)
 
+Det kan vara bra att veta att alla dessa mängder är i direkt relation med varandra, elementen från den första finns i den andra, elementen i den andra finns i den tredje, osv.. Det går att skriva som:
+
 ![equation](https://latex.codecogs.com/gif.latex?%5Cmathbb%7BN%7D%20%5Csubset%20%5Cmathbb%7BZ%7D%20%5Csubset%20%5Cmathbb%7BQ%7D%20%5Csubset%20%5Cmathbb%7BR%7D%20%5Csubset%20%5Cmathbb%7BC%7D)
 
+Och med det ger vi följande definition:
+
+**Definition:** Delmängd och äkta delmängd.
+Vi säger att en mängd B är en **delmängd av A** om alla element i B också ligger i A. Det skrivs
+![equation](https://latex.codecogs.com/gif.latex?B%5Csubseteq%20A).
+Om 
+![equation](https://latex.codecogs.com/gif.latex?B%5Csubseteq%20A)
+och
+![equation](https://latex.codecogs.com/gif.latex?B%5Cneq%20A)
+så är B en **äkta delmängd av A**. Det skrivs 
+![equation](https://latex.codecogs.com/gif.latex?B%5Csubset%20A).
+
+
+
+
+![equation]()
+![equation]()
 ![equation]()
 ![equation]()
 ![equation]()
